@@ -4,10 +4,12 @@ title: Hello
 date: 2019-12-09T15:04:10.000Z
 description: 'This is my first post for introducing myself. '
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/may_4183-2.jpg
 tags:
   - front-end
 ---
+![](/img/may_4183-2.jpg)
+
 ### Hi. I'm glad to say about me!
 
 I'm front-end(FE) developer. And I work at LINE. I started FE developing 6 years ago. I'm trying to follow FE trends.
